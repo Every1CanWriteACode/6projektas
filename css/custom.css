@@ -69,13 +69,13 @@
             padding-left: 20px;
            margin-left: 0;
         }
-            .container > .hero-row > .left {
+            .container > .row > .left {
                 
                 width: 100%;
                 margin-bottom: 80px;
                 
             }
-            .container > .hero-row > .right {
+            .container > .row > .right {
                 
                 width: 100%;
             
